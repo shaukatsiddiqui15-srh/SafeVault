@@ -1,0 +1,13 @@
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dll
+*.exe
+*.deps.json
+*.runtimeconfig.json
+*.sourcelink.json
